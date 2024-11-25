@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'blocs/counter_bloc.dart'; // Correct path to CounterBloc
-import 'screens/home_screen.dart'; // Correct path to HomeScreen
+import 'screens/home_screen_getx.dart'; // Correct path to HomeScreen
 
 void main() {
   runApp(const MyApp());
